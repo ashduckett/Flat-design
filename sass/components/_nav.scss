@@ -1,0 +1,13 @@
+.nav {
+    &__menu-items {
+        font-size: 0;
+        padding: 1.5rem 0 ;
+    
+        li {
+            font-size: 1rem;
+            display: inline-block;
+            font-family: 'Questrial';
+            margin-left: 3rem;
+        }
+    }
+}

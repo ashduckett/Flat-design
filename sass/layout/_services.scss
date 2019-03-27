@@ -1,0 +1,27 @@
+.services {
+    margin: 2rem;
+}
+
+.services__heading {
+    font-family: 'Questrial';
+    margin-left: 10rem;
+    font-size: 5rem;
+}
+
+.services__serviceHeader {
+    font-family: 'Questrial';
+}
+
+.services__serviceDescription {
+    font-family: 'Questrial';
+}
+
+.services__container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.services__service {
+    text-align: center;
+    width: 25%;
+}
